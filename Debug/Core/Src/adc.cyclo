@@ -1,0 +1,15 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h:2490:22:LL_ADC_REG_SetSequencerRanks	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h:2722:22:LL_ADC_REG_SetFlagEndOfConversion	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h:3276:22:LL_ADC_SetChannelSamplingTime	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:595:22:LL_DMA_SetDataTransferDirection	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:643:22:LL_DMA_SetMode	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:690:22:LL_DMA_SetPeriphIncMode	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:735:22:LL_DMA_SetMemoryIncMode	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:781:22:LL_DMA_SetPeriphSize	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:828:22:LL_DMA_SetMemorySize	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:921:22:LL_DMA_SetStreamPriorityLevel	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:1019:22:LL_DMA_SetChannelSelection	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_dma.h:1276:22:LL_DMA_DisableFifoMode	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_bus.h:409:22:LL_AHB1_GRP1_EnableClock	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_bus.h:1704:22:LL_APB2_GRP1_EnableClock	1
+../Core/Src/adc.c:28:6:MX_ADC1_Init	1
